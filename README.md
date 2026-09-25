@@ -9,7 +9,7 @@ Hardware design files for an ESP32-based audio recording device, including the K
 
 ## 3D Views
 
-![3D Front View](front-3d-view.png)
+![3D Front View](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/a020a0ac3112970b35561fae102ded3ccc7f7b2d/front%203D%20view.png)
 ![3D Back View](back-3d-view.png)
 ![3D Side View](side-3d-view.png)
 
