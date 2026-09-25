@@ -11,7 +11,8 @@ Hardware design files for an ESP32-based audio recording device, including the K
 
 ![3D Front View](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/a020a0ac3112970b35561fae102ded3ccc7f7b2d/front%203D%20view.png)
 ![3D Back View](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/cd2b9741f29df628836993a3b603f76e224dffac/back%203D%20view.png)
-![3D Side View](side-3d-view.png)
+![3D Side View](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/side%20view.png
+)
 
 ## Overview
 
@@ -64,37 +65,37 @@ The PCB layout contains dedicated placement areas for the main functional blocks
 
 The design screenshot shows **189 pads, 119 vias, 251 track segments, 53 nets, and 0 unrouted connections** in the displayed PCB state.
 
-![PCB Layout](copper-layer-layout.png)
+![PCB Layout](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/all%20cu%20layers%20(3).png)
 
 ## Copper Layers
 
 ### Front Copper Layer
 
-![Front Copper Layer](front-copper-layer.png)
+![Front Copper Layer](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/front%20cu%20layer.png)
 
 ### Back Copper Layer
 
-![Back Copper Layer](back-copper-layer.png)
+![Back Copper Layer](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/back%20assemable%20view.png)
 
 ### All Copper Layers
 
-![All Copper Layers](all-copper-layers.png)
+![All Copper Layers](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/cu%20layers%20layout.png)
 
 ## Assembly Layers
 
 ### Front Assembly
 
-![Front Assembly Layer](front-assembly-view.png)
+![Front Assembly Layer](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/front%20assemable%20view.png)
 
 ### Back Assembly
 
-![Back Assembly Layer](back-assembly-view.png)
+![Back Assembly Layer](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/back%20assemable%20view.png)
 
 ## Schematic
 
 The complete design schematic contains the power circuit, ESP32 controller, microphone section, microSD interface, and RTC circuit.
 
-![Schematic Preview](schematic.png)
+![Schematic Preview](https://github.com/Harshad-vali/esp32-stereo-audio-recorder/blob/b32badf5ee24e91bf9460e6525b27791062b05e6/schmatic.png)
 
 ## Board Dimensions
 
